@@ -8,7 +8,7 @@ int main()
     string name;
     int age;
 
-    cout << "Hello student\n" << "Enter your name here: ";
+    cout << "Hello students\n" << "Enter your name here: ";
     cin >> name;
 
     cout << "How old are you? ";
